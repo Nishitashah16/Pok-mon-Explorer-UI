@@ -1,9 +1,9 @@
-# Pok-mon-Explorer-UI
-A modern Pokémon Explorer UI built using HTML and CSS. Features responsive Pokémon cards, custom gradients, search bar, filter section, and a clean glassmorphism-inspired design.
-
 # Pokemon Explorer UI
 
 Pokemon Explorer UI is a responsive and visually appealing web application built using HTML and CSS. The project showcases Pokémon information with a clean layout, attractive design, and user-friendly interface.
+
+<img width="1530" height="733" alt="image" src="https://github.com/user-attachments/assets/9d64ec26-1733-4541-bb46-39666ee7a02b" />
+
 
 ## Features
 - Responsive design for different screen sizes
